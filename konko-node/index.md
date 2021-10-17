@@ -1,5 +1,5 @@
 # Konko Node
-- [v1.0](1.0/konko-node.md)
+- [v1.0](1.0/)
 
 ---
 #### [Return to Home](../README.md)

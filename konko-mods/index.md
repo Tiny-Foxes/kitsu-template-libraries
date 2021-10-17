@@ -1,5 +1,5 @@
 # Konko Mods
-- [v1.0](1.0/konko-mods.md)
+- [v1.0](1.0/)
 
 ---
 #### [Return to Home](../README.md)
