@@ -42,6 +42,6 @@ mirin = {
 }
 mirin.__index = mirin
 
-print('Loaded Mirin Syntax v1.0')
+print('Loaded Mirin Syntax v'..mirin.VERSION)
 
 return mirin

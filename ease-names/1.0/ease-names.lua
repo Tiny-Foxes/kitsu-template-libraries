@@ -118,6 +118,8 @@ function inBack(x) return t.inback(x) end
 function outBack(x) return t.outback(x) end
 function inOutBack(x) return t.inoutback(x) end
 
-print('Loaded NotITG Ease Names v1.0')
+local VERSION = '1.0'
 
-return {VERSION = '1.0'}
+print('Loaded NotITG Ease Names v'..VERSION)
+
+return {VERSION = VERSION}
