@@ -3,7 +3,7 @@
 #### Created by Sudospective
 
 ---
-**Requires Konko Mods v1.0**
+**Requires Konko Mods v1.0 or higher**
 
 Stylizes the `Mods:Mirin` function to appear more like the `set` and `ease` functions in Mirin template
 

@@ -3,7 +3,7 @@
 #### Created by Sudospective
 
 ---
-**Requires Kitsu Standard Library v1.0**
+**Requires Kitsu Standard Library v1.0 or higher**
 
 An included library for Kitsu Template that allows construction of Actors via objects and functions rather than tables and keys.
 

@@ -3,7 +3,7 @@
 #### Created by Sudospective
 
 ---
-**Requires Kitsu Standard Library v1.0**
+**Requires Kitsu Standard Library v1.0 or higher**
 
 A mod loader included with Kitsu Template. Allows support for easing mods rather than applying mods via approach rate.
 
