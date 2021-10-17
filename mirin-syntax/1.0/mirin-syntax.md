@@ -19,4 +19,4 @@ mirin.ease {0, 1, Tweens.inoutexpo, 100, 'invert'}
 See `mirin-syntax.lua` for more details
 
 ---
-##### [Return to Index](../)
+##### [Return to Index](../index.md)

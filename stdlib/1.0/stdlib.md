@@ -38,4 +38,4 @@ return t
 See `stdlib.lua` for more details
 
 ---
-##### [Return to Index](../)
+##### [Return to Index](../index.md)

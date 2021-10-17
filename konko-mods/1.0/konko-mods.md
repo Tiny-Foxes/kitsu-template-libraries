@@ -22,4 +22,4 @@ Mods:Insert(0, 2, Tweens.inoutquad, {
 See `konko-mods.lua` for more details
 
 ---
-##### [Return to Index](../)
+##### [Return to Index](../index.md)

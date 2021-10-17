@@ -2,4 +2,4 @@
 - [v1.0](1.0/konko-mods.md)
 
 ---
-#### [Return to Home](../)
+#### [Return to Home](../README.md)

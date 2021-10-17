@@ -16,4 +16,4 @@ Mods:Mirin {0, 1, outExpo, 100, 'invert'}
 See `ease-names.lua` for more details
 
 ---
-##### [Return to Index](../)
+##### [Return to Index](../index.md)

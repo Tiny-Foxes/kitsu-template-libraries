@@ -23,4 +23,4 @@ Node.new('Quad')
 See `konko-node.lua` for more details
 
 ---
-##### [Return to Index](../)
+##### [Return to Index](../index.md)

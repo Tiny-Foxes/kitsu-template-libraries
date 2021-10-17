@@ -3,11 +3,11 @@ Here you will find a list of approved libraries for the Kitsu Template, separate
 
 ---
 ## Library List
-- [Kitsu Standard Library](stdlib/) by [Sudospective](https://github.com/Sudospective/)
-- [Konko Mods](konko-mods/) by [Sudospective](https://github.com/Sudospective/)
-- [Konko Nodes](konko-node/) by [Sudospective](https://github.com/Sudospective/)
-- [Mirin Syntax](mirin-syntax/) by [Sudospective](https://github.com/Sudospective/)
-- [NotITG Ease Names](ease-names/) by [Sudospective](https://github.com/Sudospective/)
+- [Kitsu Standard Library](stdlib/index.md) by [Sudospective](https://github.com/Sudospective/)
+- [Konko Mods](konko-mods/index.md) by [Sudospective](https://github.com/Sudospective/)
+- [Konko Nodes](konko-node/index.md) by [Sudospective](https://github.com/Sudospective/)
+- [Mirin Syntax](mirin-syntax/index.md) by [Sudospective](https://github.com/Sudospective/)
+- [NotITG Ease Names](ease-names/index.md) by [Sudospective](https://github.com/Sudospective/)
 
 
 ---
